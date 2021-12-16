@@ -26,7 +26,6 @@ public class Main {
         String changedString = (firstString + " " + secondString).replace("P", "")
                 .replace("p", "");
         System.out.println(changedString);
-        ;
     }
 
     /*
